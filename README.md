@@ -7,3 +7,6 @@
 2. Add the code.
 3. run after compilation
 4. Done
+
+- 카카오톡 9.7.0 이상 버전 대응코드는 별도로 직접 설정 하셔야 합니다. 
+- Kakao Talk 9.7.0 or higher version correspondence codes must be set separately.
